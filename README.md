@@ -5,7 +5,7 @@
 - 📝 I regulary write articles on **[my blog][blog]**
 - 📫 How to reach me **nageshvk555@gmail.com**
 - 👻 **npx** nageshvk
-- ⚡ Fun fact **pevita lovers** 💘
+
 
 ## 😎 Connect with me
 
