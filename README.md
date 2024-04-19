@@ -1,10 +1,10 @@
 # Hi there, I'm Nagesh! 👋
 
-- 🌱 I’m currently doing **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available at **[here][github]**
+- 🌱 I’m currently learning more about Front-end Development and DevOps.
+- 🤔 I code in .js, .go, .sh
 - 📝 I regulary write articles on **[my blog][blog]**
-- 📫 How to reach me **nageshvk555@gmail.com**
-- 👻 **npx** nageshvk
+- 📫 How to reach me **[Post here][email]**
+- 👻 **sudo apt-get install knowledge**
 
 
 ## 😎 Connect with me
@@ -43,3 +43,4 @@
 [instagram]: https://instagram.com/nagesh._.vk
 [linkedin]: https://www.linkedin.com/in/nagesh-vk/
 [github]: https://github.com/NageshVk
+[email]: nageshvk555@gmail.com
