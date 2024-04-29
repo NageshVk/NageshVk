@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning more about Front-end Development and DevOps.
 - 🤔 I code in .js, .go, .sh 
-- 📝 I regulary write articles on **[my blog][blog]**
+- 📝 I regularly write articles on **[my blog][blog]**
 - 📫 How to reach me **[Post here][email]**
 - 👻 **sudo apt-get install knowledge**
 
