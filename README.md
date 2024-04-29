@@ -39,7 +39,7 @@
 
 </details>
 
-[blog]: https://medium.com/@nageshvk555
+[blog]: https://medium.com/@nageshvk
 [instagram]: https://instagram.com/nagesh._.vk
 [linkedin]: https://www.linkedin.com/in/nagesh-vk/
 [github]: https://github.com/NageshVk
